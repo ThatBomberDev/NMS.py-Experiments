@@ -1,0 +1,2 @@
+# What Is This?
+A series of some _very_ rough NMS.py experiment scripts uploaded and updated as I can figure out their respective functions and fields. More unstable / less well documented than the official example mods included with the NMS.py repo, but can still be used for as a basic comparison guide for your own scripts. 
